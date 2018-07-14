@@ -1,0 +1,9 @@
+c:\users\asif\documents\visual studio 2012\Projects\DB_SQL_Server\DB_SQL_Server\bin\Debug\DB_SQL_Server.exe.config
+c:\users\asif\documents\visual studio 2012\Projects\DB_SQL_Server\DB_SQL_Server\bin\Debug\DB_SQL_Server.exe
+c:\users\asif\documents\visual studio 2012\Projects\DB_SQL_Server\DB_SQL_Server\bin\Debug\DB_SQL_Server.pdb
+c:\users\asif\documents\visual studio 2012\Projects\DB_SQL_Server\DB_SQL_Server\obj\Debug\DB_SQL_Server.csprojResolveAssemblyReference.cache
+c:\users\asif\documents\visual studio 2012\Projects\DB_SQL_Server\DB_SQL_Server\obj\Debug\DB_SQL_Server.Form1.resources
+c:\users\asif\documents\visual studio 2012\Projects\DB_SQL_Server\DB_SQL_Server\obj\Debug\DB_SQL_Server.Properties.Resources.resources
+c:\users\asif\documents\visual studio 2012\Projects\DB_SQL_Server\DB_SQL_Server\obj\Debug\DB_SQL_Server.csproj.GenerateResource.Cache
+c:\users\asif\documents\visual studio 2012\Projects\DB_SQL_Server\DB_SQL_Server\obj\Debug\DB_SQL_Server.exe
+c:\users\asif\documents\visual studio 2012\Projects\DB_SQL_Server\DB_SQL_Server\obj\Debug\DB_SQL_Server.pdb
